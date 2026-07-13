@@ -1,0 +1,26 @@
+[
+  {
+    "name": "English (US)",
+    "language": "en",
+    "country": "US",
+    "sha1": "589b99614723628ae837842450184cfebae8e8da",
+    "version": 1,
+    "archive": "https://raw.githubusercontent.com/karferz/XperiaKeyboardLanguagePacks/master/LanguagePackages/en_US.zip"
+  },
+  {
+    "name": "Fran\u00e7ais (France)",
+    "language": "fr",
+    "country": "FR",
+    "sha1": "cd97359144de637d380a35895769e7782b59f226",
+    "version": 1,
+    "archive": "https://raw.githubusercontent.com/karferz/XperiaKeyboardLanguagePacks/master/LanguagePackages/fr_FR.zip"
+  },
+  {
+    "name": "Espa\u00f1ol (Espa\u00f1a)",
+    "language": "es",
+    "country": "ES",
+    "sha1": "2e23f4d3ae953c3d80c4f45aee116607c7d2d652",
+    "version": 1,
+    "archive": "https://raw.githubusercontent.com/karferz/XperiaKeyboardLanguagePacks/master/LanguagePackages/es_ES.zip"
+  }
+]
